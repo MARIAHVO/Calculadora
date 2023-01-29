@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hello 👋
 <! --
 
- Currently I am learning more in depth, several programming languages, such as Python, Javascript, Java, Nodejs, among others.
+I'm currently learning more in depth, various programming, style and markup languages such as Javascript, Css, Html, among others. 
 
 -->
